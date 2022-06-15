@@ -12,4 +12,4 @@ Proyecto de sistema de login con FastAPI y SQLite3 realizado en el canal de [Gre
 
 
 
-[gvc]:https://google.com
+[gvc]:https://www.youtube.com/watch?v=ctTVGqjzBCw
